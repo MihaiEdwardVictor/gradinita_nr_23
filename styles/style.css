@@ -1,0 +1,32 @@
+.background-color-custom{
+    background-color: #000717;
+}
+.nav-link:hover{
+    color: aliceblue;
+}
+.text-color-aliceblue{
+    color: aliceblue;
+}
+
+.navbar-background-color{
+    background-color: #000717;
+}
+.pretty-text{
+    color: aliceblue;
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 25px;
+}
+
+.logo{
+    background-image: url('../resources/images/logo_gradinita.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+
+.carousel-inner img{
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
