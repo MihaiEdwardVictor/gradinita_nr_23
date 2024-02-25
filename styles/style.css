@@ -16,7 +16,11 @@
     font-family: 'Amatic SC', sans-serif;
     font-size: 25px;
 }
-
+.pretty-text-smaller{
+    color: aliceblue;
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 17px;
+}
 .logo{
     background-image: url('../resources/images/logo_gradinita.jpg');
     background-size: contain;
@@ -29,4 +33,3 @@
     width: 100%;
     height: 100%;
 }
-
